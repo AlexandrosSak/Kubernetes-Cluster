@@ -1,0 +1,2 @@
+declare -a IPS=(167.235.49.54 159.69.35.153 167.235.73.16)
+CONFIG_FILE=inventory/mycluster/hosts.yml python3 contrib/inventory_builder/inventory.py ${IPS[@]}
