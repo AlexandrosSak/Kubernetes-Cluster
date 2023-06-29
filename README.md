@@ -20,7 +20,7 @@ To follow along, you need this:
 
 3 VMs with a compatible OS
 Regarding hardware resources, controller nodes need at least 1.5 GB RAM, worker nodes 1GB of RAM
-SSH access to these serversPrerequisites
+SSH access to these servers
 
 
 Part I - Creation of VMs and Network
